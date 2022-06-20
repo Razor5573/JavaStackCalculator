@@ -1,0 +1,4 @@
+PUSH 325
+PUSH 7
+*
+PRINT

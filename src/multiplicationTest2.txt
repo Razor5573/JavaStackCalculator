@@ -1,0 +1,4 @@
+PUSH 2048
+PUSH 0
+*
+PRINT

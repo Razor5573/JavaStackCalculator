@@ -1,0 +1,6 @@
+DEFINE pupu 3
+DEFINE pipi 25
+PUSH pupu
+PUSH pipi
++
+PRINT

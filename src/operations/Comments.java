@@ -1,9 +1,8 @@
 package operations;
-import java.util.Stack;
+import java.util.HashMap;
 
 public class Comments implements Command{
     @Override
-    public void work(Stack<Double> ... stack) {
-
+    public void work(String[] args, HashMap<String, Double> defines){
     }
 }
